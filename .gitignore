@@ -1,0 +1,7 @@
+*.session
+
+config/test_config.yml
+
+__pycache__/
+*.py[cod]
+*.pyo
