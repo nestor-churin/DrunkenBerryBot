@@ -27,6 +27,6 @@ Please note that the bot is still in active development, so some features may no
 
 # This project is actively being developed. If you want to help or have ideas to improve the bot, feel free to reach out or open a pull request.
 
----
+## Contributors
 
 [Nestor Churin](https://t.me/nestor_churin) - Main developer, bot logic, and project setup.
