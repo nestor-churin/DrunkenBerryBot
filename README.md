@@ -29,4 +29,4 @@ Please note that the bot is still in active development, so some features may no
 
 ---
 
-[DrunkenCherry](https://t.me/drunkencherrystudio)
+[Nestor Churin](https://t.me/nestor_churin) - Main developer, bot logic, and project setup.
